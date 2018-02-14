@@ -1,0 +1,9 @@
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 8\Project 8\bin\Debug\Project 8.exe.config
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 8\Project 8\obj\Debug\Project 8.csprojResolveAssemblyReference.cache
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 8\Project 8\obj\Debug\Project_8.Form1.resources
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 8\Project 8\obj\Debug\Project_8.Properties.Resources.resources
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 8\Project 8\obj\Debug\Project 8.csproj.GenerateResource.Cache
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 8\Project 8\bin\Debug\Project 8.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 8\Project 8\bin\Debug\Project 8.pdb
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 8\Project 8\obj\Debug\Project 8.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 8\Project 8\obj\Debug\Project 8.pdb

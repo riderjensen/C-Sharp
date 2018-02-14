@@ -1,0 +1,9 @@
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 5\Project 5\bin\Debug\Project 5.exe.config
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 5\Project 5\bin\Debug\Project 5.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 5\Project 5\bin\Debug\Project 5.pdb
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 5\Project 5\obj\Debug\Project 5.csprojResolveAssemblyReference.cache
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 5\Project 5\obj\Debug\Project_5.Form1.resources
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 5\Project 5\obj\Debug\Project_5.Properties.Resources.resources
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 5\Project 5\obj\Debug\Project 5.csproj.GenerateResource.Cache
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 5\Project 5\obj\Debug\Project 5.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Project 5\Project 5\obj\Debug\Project 5.pdb

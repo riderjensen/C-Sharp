@@ -1,0 +1,10 @@
+C:\Users\rider_000\Desktop\Project9\Project9\bin\Debug\Project9.exe
+C:\Users\rider_000\Desktop\Project9\Project9\bin\Debug\Project9.pdb
+C:\Users\rider_000\Desktop\Project9\Project9\obj\Debug\Project9.csprojResolveAssemblyReference.cache
+C:\Users\rider_000\Desktop\Project9\Project9\obj\Debug\Project9.exe
+C:\Users\rider_000\Desktop\Project9\Project9\obj\Debug\Project9.pdb
+E:\Spring 2017\CS1400\Visual Studios Projects\Project9\Project9\obj\Debug\Project9.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Project9\Project9\obj\Debug\Project9.pdb
+E:\Spring 2017\CS1400\Visual Studios Projects\Project9\Project9\obj\Debug\Project9.csprojResolveAssemblyReference.cache
+E:\Spring 2017\CS1400\Visual Studios Projects\Project9\Project9\bin\Debug\Project9.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Project9\Project9\bin\Debug\Project9.pdb

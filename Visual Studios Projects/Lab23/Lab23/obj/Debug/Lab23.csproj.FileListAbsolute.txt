@@ -1,0 +1,10 @@
+C:\Users\rider_000\Desktop\Lab23\Lab23\bin\Debug\Lab23.exe
+C:\Users\rider_000\Desktop\Lab23\Lab23\bin\Debug\Lab23.pdb
+C:\Users\rider_000\Desktop\Lab23\Lab23\obj\Debug\Lab23.csprojResolveAssemblyReference.cache
+C:\Users\rider_000\Desktop\Lab23\Lab23\obj\Debug\Lab23.exe
+C:\Users\rider_000\Desktop\Lab23\Lab23\obj\Debug\Lab23.pdb
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab23\Lab23\obj\Debug\Lab23.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab23\Lab23\obj\Debug\Lab23.pdb
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab23\Lab23\bin\Debug\Lab23.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab23\Lab23\bin\Debug\Lab23.pdb
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab23\Lab23\obj\Debug\Lab23.csprojResolveAssemblyReference.cache

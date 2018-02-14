@@ -1,0 +1,7 @@
+E:\Spring 2017\CS1400\Visual Studios Projects\Project10\Project10\bin\Debug\Project10.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Project10\Project10\bin\Debug\Project10.pdb
+E:\Spring 2017\CS1400\Visual Studios Projects\Project10\Project10\obj\Debug\Project10.csprojResolveAssemblyReference.cache
+E:\Spring 2017\CS1400\Visual Studios Projects\Project10\Project10\obj\Debug\Project10.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Project10\Project10\obj\Debug\Project10.pdb
+D:\rider\Documents\College\Spring 2017\CS1400\Visual Studios Projects\Project10\Project10\obj\Debug\Project10.exe
+D:\rider\Documents\College\Spring 2017\CS1400\Visual Studios Projects\Project10\Project10\obj\Debug\Project10.pdb

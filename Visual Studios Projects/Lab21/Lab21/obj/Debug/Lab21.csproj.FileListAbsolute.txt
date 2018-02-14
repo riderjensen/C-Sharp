@@ -1,0 +1,5 @@
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab21\Lab21\bin\Debug\Lab21.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab21\Lab21\bin\Debug\Lab21.pdb
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab21\Lab21\obj\Debug\Lab21.csprojResolveAssemblyReference.cache
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab21\Lab21\obj\Debug\Lab21.exe
+E:\Spring 2017\CS1400\Visual Studios Projects\Lab21\Lab21\obj\Debug\Lab21.pdb
